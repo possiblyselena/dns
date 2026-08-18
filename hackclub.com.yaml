@@ -6012,3 +6012,6 @@ zoo:
 zwp:
 - type: A
   value: 172.99.233.117
+urspace:
+- type: CNAME
+  value: urspace-selena-s-p-332a0e.k.hackclub.dev.
