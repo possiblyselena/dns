@@ -183,6 +183,9 @@ as: # Jacob N // @Jacob // U0AEYDUCLKF // jacob.navaratne@outlook.com
 - type: CNAME
   value: mini-jacob.hackclub.app.
   ttl: 600
+as-hosting: # jacob.navaratne@outlook.com / @Jacob on Slack
+- type: CNAME
+  value: mini-jacob.hackclub.app.
 asclub: # Jacob N // @Jacob // U0AEYDUCLKF // jacob.navaratne@outlook.com
 - type: CNAME
   value: mini-jacob.hackclub.app.
@@ -521,6 +524,10 @@ framebuf: #funkeudo@outlook.com / U0A03GWFP1V
 - ttl: 600
   type: A
   value: 216.198.79.1
+frontier: # cloudglides@proton.me U0A2EKA9FAL
+- ttl: 600
+  type: CNAME
+  value: cloudglides.hackclub.app.
 fullhouse: #niko@nikoo.dev U08SF8MVC82
 - ttl: 600
   type: A
@@ -580,6 +587,9 @@ hcmobile: # U092329JX89
   ttl: 600
   type: CNAME
   value: cname.mintlify-dns.com.
+henne: # admin@henrymeyer.de U0B1CCSCCLF
+- type: A
+  value: 216.198.79.1
 heramb:
   ttl: 600
   type: CNAME
@@ -955,6 +965,9 @@ print:
   ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+ptcg: # richarddiscord@duck.com
+- type: A
+  value: 130.61.17.229
 pv0: # slack ID: U0AUTFQQUQP
   ttl: 600
   type: CNAME
@@ -1090,6 +1103,10 @@ shammah: # by https://github.com/Gijutsu-T
 - ttl: 600
   type: CNAME
   value: cname.vercel-dns.com.
+shanghai: # manjumusei@gmail.com U0AQMKK8A5U
+- ttl: 600
+  type: CNAME
+  value: shanghaishadows.hackclub.app.
 shipathon: # christian U0938MZG8Q6
 - ttl: 600
   type: A
@@ -1182,6 +1199,9 @@ strategize: # rez@proton.me U082KMLM7DW YSWS for 2026 internship submisions
 subdomain: # Free subdomain generator.
   ttl: 600
   type: CNAME
+  value: cname.vercel-dns.com.
+suky: # balasmario12m@gmail.com
+- type: CNAME
   value: cname.vercel-dns.com.
 sunshine: # kacper@hackclub.com
 - ttl: 600
